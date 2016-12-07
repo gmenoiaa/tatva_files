@@ -1,0 +1,15 @@
+.mainDiv
+{
+	margin:10px 0px;
+}
+.fileTitleDiv
+{
+    float: left;
+	margin-right:20px;
+	width:150px;
+}
+.fileImageDiv
+{
+	margin-right:10px;
+	float: left;
+}

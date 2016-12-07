@@ -1,0 +1,12 @@
+{
+    "name": "gmenoiaa/tatva_files",
+    "description": "Tatva_Files update for Magento 1.9.3.x",
+    "type": "magento-module",
+    "authors": [
+        {
+            "name": "Geiser Menoia",
+            "email": "gmenoiaa@gmail.com"
+        }
+    ],
+    "require": {}
+}
