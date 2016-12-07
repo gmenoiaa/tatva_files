@@ -2,7 +2,7 @@
 <config>
 	<modules>
 		<Tatva_Files>
-			<version>0.2.0</version>
+			<version>0.2.1</version>
 		</Tatva_Files>
 	</modules>
 	<admin>
